@@ -1,7 +1,5 @@
-# 💫 About Me:
-I'm currently a Software Engineer at Frequenz Energy-as-a-Service.<br>
-I love working on projects in my spare-time, from iOS apps, cool AI algorithms or fundamental algorithmic research.
-
+<h1 align="center">-- Jack Herrmann --</h1>
+<h3 align="center">Software Engineer at Frequenz Energy-as-a-Service</h3>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -21,4 +19,3 @@ I love working on projects in my spare-time, from iOS apps, cool AI algorithms o
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0o111&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0o111&theme=shadow_blue&hide_border=false)<br/>
