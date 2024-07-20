@@ -1,5 +1,5 @@
 <h1 align="center">Jack Herrmann</h1>
-<h3 align="center">Software Engineer | Stanford CS Major</h3>
+<h3 align="center">Software Engineer | Stanford '28</h3>
 
 <h4 align="center">- Interested in ...</h4>
 
