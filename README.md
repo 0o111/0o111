@@ -1,9 +1,10 @@
 <h1 align="center">Jack Herrmann</h1>
-<h3 align="center">Software Engineer | Stanford '28</h3>
+<h3 align="center">Software Engineer | Stanford CS Major</h3>
+
+<h4 align="center">- Interested in ...</h4>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0o111&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0o111&theme=shadow_blue&hide_border=false" alt="GitHub Streak"/>
 </div>
 
 <h3 align="left"></h3>
