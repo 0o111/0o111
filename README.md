@@ -3,9 +3,7 @@
 
 <h4 align="center">- Interested in ...</h4>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0o111&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</div>
+<h1 align="left"></h1>
 
 <h3 align="left"></h3>
 
@@ -29,4 +27,10 @@
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</div>
+
+<h3 align="left"></h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0o111&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </div>
