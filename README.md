@@ -20,13 +20,13 @@
 <h3 align="left"></h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/swiftui-0E66C9?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
-  <img src="https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow"/>
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/firebase-E3911E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik02Ljc1NyAxLjUwMUw0IDE4LjVMOS40NzMgNC44MTZMNy42OTUgMS4zNTNhLjUuNSAwIDAgMC0uOTM4LjE0OG00LjgwNyAyLjgxN0w0IDE4LjVsOS44NC0xMS41NWwtMS4zOTktMi42MjNhLjUuNSAwIDAgMC0uODc3LS4wMW0tLjYyNCAxOC41Mkw0IDE4LjVMMTcuMzEgNS42NjVhLjUuNSAwIDAgMSAuODMyLjI5NkwyMCAxOC41bC02Ljk0IDQuMzM3YTIgMiAwIDAgMS0yLjEyIDAiIC8+Cjwvc3ZnPg==" alt="Firebase"/>
+  <a href="https://developer.apple.com/documentation/swiftui" target="_blank"><img src="https://img.shields.io/badge/swiftui-0E66C9?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
+  <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/firebase-E3911E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik02Ljc1NyAxLjUwMUw0IDE4LjVMOS40NzMgNC44MTZMNy42OTUgMS4zNTNhLjUuNSAwIDAgMC0uOTM4LjE0OG00LjgwNyAyLjgxN0w0IDE4LjVsOS44NC0xMS41NWwtMS4zOTktMi42MjNhLjUuNSAwIDAgMC0uODc3LS4wMW0tLjYyNCAxOC41Mkw0IDE4LjVMMTcuMzEgNS42NjVhLjUuNSAwIDAgMSAuODMyLjI5NkwyMCAxOC41bC02Ljk0IDQuMzM3YTIgMiAwIDAgMS0yLjEyIDAiIC8+Cjwvc3ZnPg==" alt="Firebase"/></a>
 </div>
 
 <h3 align="left"></h3>
