@@ -14,8 +14,6 @@
   innovative iOS apps.
 </h4>
 
----
-
 ## Skills
 
 <!-- Programming Languages -->
@@ -56,8 +54,6 @@
     alt="Prolog"
   />
 </p>
-
----
 
 ## Tools
 
@@ -112,8 +108,6 @@
     />
   </a>
 </div>
-
----
 
 <!-- GitHub Stats
      To enable, remove the surrounding comment markers.
