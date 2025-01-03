@@ -1,5 +1,5 @@
 <h1 align="center">Jack Herrmann</h1>
-<h3 align="center">Hello! I'm a Stanford CS major with experience as a Software Engineer.</h3>
+<h3 align="center">Aspiring software innovator at Stanford with a talent for turning creative ideas into reality.</h3>
 
 <h4 align="center">I love developing artificial intelligence applications, solving complex problems through advanced algorithmic concepts, exploring transformative quantum algorithms, and creating innovative iOS apps.</h4>
 
